@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seancmacneil
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... not sure
+- 👀 I’m interested in ... automating CGI production pipeline tasks 
+- 🌱 I’m currently learning ... AI
+- 💞️ I’m looking to collaborate on ... top-tier products for global media and entertainment sector clients
 - 📫 How to reach me ... not available
 
 <!---
