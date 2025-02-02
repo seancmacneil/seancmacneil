@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seancmacneil
 - 👀 I’m interested in ... automating real-time CGI production pipeline tasks around USD, Unreal Engine, and Maya.
-- 🌱 I’m currently learning ... AI via a professional perspective in terms of advancing development for a high-end feature animation pipeline
+- 🌱 I’m currently learning ... AI via a professional perspective which concerns the proper advancements in technology development for high-end feature animation pipeline technologies
 - 💞️ I’m looking to collaborate on ... top-tier products for global media and entertainment sector clients
 - 📫 How to reach me ... [evolved entertainment](https://evolvedentertainment.blogspot.com/)
 
