@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seancmacneil
-- 👀 I’m interested in ... storytelling, animation, technology and automating real-time CGI production pipeline tasks around USD, Unreal Engine, and Maya
+- 👀 I’m interested in ... storytelling, animation, technology and automating real-time CGI production pipeline and integration tasks around USD, Unreal Engine, and Maya
 - 🌱 I’m currently learning ... AI for technical advancements in high-end feature animation pipeline technologies, in order to enhance and streamline production processes for creatives and artists working in production
 - 💞️ I’m looking to collaborate on ... top-tier products for global media and entertainment sector clients
 - 📫 How to reach me ... seanchristophermacneil.gmail.com
