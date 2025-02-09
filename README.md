@@ -4,7 +4,7 @@
 - 🎉 I've released ... Maya-USD-Export, a customized and artist-friendly open-source USD asset migration tool engineered for real-time feature animation pipelines integrated with Unreal Engine 5 technology.
 - 💞️ I’m looking to collaborate on ... top-tier products for global media and entertainment sector clients.
 - 📫 How to reach me ... scmacdonald@yahoo.com.
-- 🎥 View my demo reel (Permission required) ... https://vimeo.com/1054664400.
+- 🎥 View reel (Permission required) ... https://vimeo.com/1054664400.
 <!---
 seancmacneil/seancmacneil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
