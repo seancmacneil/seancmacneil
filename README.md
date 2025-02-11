@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @seancmacneil (Sean MacNeil)  
+# 👋 Hi, I’m @seancmacneil, Sean Bowes Lyon MacDonald (Sean MacNeil preferred)  
 
 **Animator, Associate CG Supervisor, and Technical Director** with **26 years of Maya, 15 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
 
