@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @seancmacneil or Sean Christopher Bowes Lyon MacDonald (Sean MacNeil preferred) ... Animator, Associate CG Supervisor, Technical Director, Creative Technologist & Business Founder. I've been a Maya user for 26 years, a Houdini user for 15 years, an Unreal Engine user for 10 years, and a USD user for two years.
-- 👀 I’m interested in ... storytelling, animation, technology and automating real-time CGI production pipeline and integration tasks around USD, Unreal Engine, Maya, and Houdini assets.
-- 🌱 I’m currently learning ... artificial intelligence from the perspective of a professional animation artist and technical director, for AI-infused technical artistic advancements in high-end feature animation pipeline technologies, aiming to enhance and streamline real-time asset ideation and iteration processes for creatives and artists.
-- 🎉 I've released ... Maya-USD-Export, a customized and artist-friendly open-source USD asset migration tool engineered for real-time feature animation pipelines integrated with Unreal Engine 5 technology.
-- 💞️ I’m looking to collaborate on ... top-tier products for global media and entertainment sector clients.
-- 📫 How to reach me ... scmacdonald@yahoo.com.
-- 🎥 View reel (Permission required) ... https://vimeo.com/1054664400.
-<!---
-seancmacneil/seancmacneil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @seancmacneil (Sean MacNeil)  
+
+**Animator, Associate CG Supervisor, and Technical Director** with **26 years of Maya, 15 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
+
+## 👀 Interests  
+Storytelling, animation, and automating real-time CGI pipelines with USD, Unreal Engine, Maya, and Houdini.  
+
+## 🌱 Currently Exploring  
+AI-driven advancements for real-time feature animation pipelines to enhance asset ideation and iteration.  
+
+## 🎉 Released  
+**Maya-USD-Export** – an open-source, artist-friendly USD asset migration tool for Unreal Engine 5 pipelines.  
+
+## 💞️ Looking to Collaborate On  
+High-end animation and real-time tech for global media and entertainment.  
+
+## 📫 Contact  
+✉️ scmacdonald@yahoo.com  
+
+## 🎥 Reel (Permission Required)  
+[Vimeo](https://vimeo.com/1054664400)  
