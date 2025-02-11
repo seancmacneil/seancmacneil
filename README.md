@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @seancmacneil,  
 
-**Associate CG Supervisor and, or Associate Gaffer TD** with **26 years of Maya, 15 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
+**Associate CG Supervisor and, or Pipeline TD** with **26 years of Maya, 15 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
 
 ## 👀 Interests  
 Storytelling, animation, and automating real-time CGI pipelines with USD, Unreal Engine, Maya, and Houdini.  
