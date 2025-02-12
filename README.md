@@ -1,4 +1,4 @@
-n# 👋 Hi, I’m @seancmacneil,  
+## 👋 Hi, I’m @seancmacneil,  
 
 **Associate CG Supervisor, Tools Engineer, TD, and Senior Technical Artist** with **26 years of Maya, 18 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
 
