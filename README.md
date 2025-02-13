@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @seancmacneil,  
 
-**Associate CG Supervisor, Tools Engineer, TD, and Senior Technical Artist** with **26 years of Maya, 18 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
+**Tools Engineer and Senior Technical Artist** with **26 years of Maya, 18 years of Houdini, 10 years of Unreal Engine, and 2 years of USD** experience.  
 
 ## 👀 Interests  
 Storytelling, animation, and automating real-time CGI pipelines with USD, Unreal Engine, Maya, and Houdini.  
